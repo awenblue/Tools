@@ -4,14 +4,14 @@ import java.util.Arrays;
 /** 
  * <b>function:</b> 
  * @author  Awen
- * ´´½¨Ê±¼ä£º2015Äê5ÔÂ16ÈÕ ÏÂÎç12:01:45
+ * åˆ›å»ºæ—¶é—´ï¼š2015å¹´5æœˆ16æ—¥ ä¸‹åˆ12:01:45
  */
 public class SortUtil implements SortValue{
 
 	public void sort(String[] params){
 		sort(params, 0, params.length - 1);
 	}
-	
+
 	private void sort(String[] params, int left, int right){
 		if (left >= right) {
 			return;
