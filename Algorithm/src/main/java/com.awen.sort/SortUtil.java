@@ -4,7 +4,7 @@ import java.util.Arrays;
 /** 
  * <b>function:</b> 
  * @author  Awen
- * 创建时间：2015年5月16日 下午12:01:45 
+ * 创建时间：2015年5月16日 下午12:01:45
  */
 public class SortUtil implements SortValue{
 
